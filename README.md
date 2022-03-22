@@ -15,6 +15,7 @@ apiVersion: v1
 kind: Secret
 metadata:
   name: kibana-elastic-secret
+  namespace: monitoring
 data:
   username: ZWxhc3RpYw==
   password: RWxhc3RpYzJQYXNzd29yZA==
