@@ -12,6 +12,6 @@ kibana:
     #       name: kibana-elastic-secret
     #       key: password
     - name: "ELASTICSEARCH_USERNAME"
-      value: elastic
+      value: Elastic2Passwordroot
     - name: "ELASTICSEARCH_PASSWORD"
-      value: elastic
+      value: Elastic2Passwordroot
